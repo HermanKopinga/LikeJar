@@ -11,6 +11,7 @@
 // Arduino 7 segment display example software
 // http://www.hacktronics.com/Tutorials/arduino-and-7-segment-led.html
  
+// License: none whatsoever.
  
 // Global variables
 
